@@ -8,7 +8,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Language-C%2B%2B98-blue" alt="Language">
-  <img src="https://img.shields.io/badge/Norm-42-green" alt="42 Norm">
   <img src="https://img.shields.io/badge/Status-In%20Development-orange" alt="Status">
 </p>
 
